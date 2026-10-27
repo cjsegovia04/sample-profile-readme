@@ -13,5 +13,5 @@ My goal is to develop practical technical skills and apply cybersecurity concept
 
 ## Connect With Me
 - GitHub: https://github.com/cjsegovia04
-- LinkedIn: [[Add your LinkedIn profile URL here](https://www.linkedin.com/in/cjay-segovia-75594b419/)]
+- LinkedIn: [(https://www.linkedin.com/in/cjay-segovia-75594b419/)]
 
